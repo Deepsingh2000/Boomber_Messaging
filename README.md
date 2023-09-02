@@ -55,4 +55,3 @@ This project is for educational purposes only. Please use it responsibly and adh
 
 ---
 
-Feel free to add more sections or details specific to your project as needed. This README template covers the basics to help you get started.
